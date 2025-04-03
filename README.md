@@ -23,5 +23,6 @@ python log_archive.py <https://github.com/Olamigokeolowo/Log-archive-tool/blob/m
 output-directory <https://github.com/Olamigokeolowo/Log-archive-tool/blob/main/dummy_log.py>
 ```
 
-Below is the result of the code : ![image](https://github.com/user-attachments/assets/8b7d6ead-3c4f-40bd-aea3-59bed0d256df)
+Below is the result of the code : ![image](https://github.com/user-attachments/assets/b7aa403d-9543-49f6-82ab-e411f7026de2)
+
 
