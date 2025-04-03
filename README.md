@@ -24,5 +24,6 @@ Run the tool from the command line:
 python log_archive.py https://github.com/Olamigokeolowo/Log-archive-tool/blob/main/log_archive_tool.py
 
 output-directory https://github.com/Olamigokeolowo/Log-archive-tool/blob/main/dummy_log.py
+
 '''
 
