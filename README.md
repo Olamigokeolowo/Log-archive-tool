@@ -1,5 +1,3 @@
-# Log-archive-tool
-
 # Log Archive Tool
 
 ## Overview
