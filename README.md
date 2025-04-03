@@ -21,5 +21,8 @@ This tool compresses log files from a given directory into a .tar.gz archive and
 Run the tool from the command line:
 
 ```bash
-python log_archive.py https://github.com/Olamigokeolowo/Log-archive-tool/blob/main/log_archive_tool.py output-directory 
+python log_archive.py https://github.com/Olamigokeolowo/Log-archive-tool/blob/main/log_archive_tool.py
+
+output-directory https://github.com/Olamigokeolowo/Log-archive-tool/blob/main/dummy_log.py
 '''
+
